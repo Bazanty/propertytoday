@@ -17,10 +17,11 @@ export default function Navbar() {
           <a href="#home" className="text-gray-600 hover:text-blue-500">
             Home
           </a>
-          <a href="#about" className="text-gray-600 hover:text-blue-500">
+          <a href="/AboutSection" className="text-gray-600 hover:text-blue-500">
+
             About
           </a>
-          <a href="#properties" className="text-gray-600 hover:text-blue-500">
+          <a href="/properties" className="text-gray-600 hover:text-blue-500">
             Properties
           </a>
           <a href="#contact" className="text-gray-600 hover:text-blue-500">
